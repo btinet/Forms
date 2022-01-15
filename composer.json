@@ -1,0 +1,19 @@
+{
+    "name": "btinet/forms",
+    "description": "A simple php-class for rendering forms.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Btinet\\Forms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin Wagner",
+            "email": "benjamin.voigt@vapita.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
